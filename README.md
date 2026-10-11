@@ -1,3 +1,10 @@
+> **Fork notice (thekingadn).** This fork exists only to carry DAVE (E2EE) voice-receive support
+> while upstream is inactive (last commit June 2025). Branch `dave-receive` = upstream `main`
+> (`ac04ea7`) + the patch from upstream PR #62 by @LeadFreeCandy (MIT, authorship kept in the
+> commit message below). Pin to a full commit SHA or the tag `dave-receive-1`. Not a maintained
+> replacement; if upstream merges DAVE support, switch back to it.
+>
+> Original patch: https://github.com/imayhaveborkedit/discord-ext-voice-recv/pull/62
 ![PyPI - Version](https://img.shields.io/pypi/v/discord-ext-voice-recv?color=dodgerblue&link=https%3A%2F%2Fpypi.org%2Fproject%2Fdiscord-ext-voice-recv%2F)
 
 # discord-ext-voice-recv
